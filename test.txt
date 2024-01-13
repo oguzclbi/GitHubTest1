@@ -1,1 +1,4 @@
 test dosyası oluşturuldu.
+
+
+şimdi kullanıcı adı ve e maili değitirip tekrar commit atıyoruz
